@@ -102,7 +102,7 @@ MNIST-CVAE-GAN/
 
 ## Автор
 
-- Гулиев Надир**
+- **Гулиев Надир**
 - GitHub: [nadirg2](https://github.com/nadirg2)
 - Email: [gulievnadir3@gmail.com](mailto:gulievnadir3@gmail.com)
 
